@@ -1,0 +1,23 @@
+{
+  "name": "propequity-promo",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "preview": "remotion studio src/index.ts",
+    "render": "remotion render src/index.ts PropEquityPromo out/PropEquity_motion_v2.mp4",
+    "still": "remotion still src/index.ts PropEquityPromo out/still.png"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@remotion/cli": "^4.0.200",
+    "@svg-maps/india": "^2.0.0",
+    "@types/react": "^18.3.3",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "remotion": "^4.0.200",
+    "typescript": "^5.5.4"
+  },
+  "private": true
+}
