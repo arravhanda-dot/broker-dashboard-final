@@ -1,15 +1,16 @@
-# PropEquity promo — voiceover script (draft v2)
+# PropEquity promo — voiceover script (draft v3)
 
-Timed to the 58.5s cut. Status: **figures confirmed (1.4 crore homes, 80% of top-100 developers); awaiting final script approval.**
+Spoken by Samir Jasuja, first person. The voiceover tells the story *behind* the
+numbers; the on-screen graphics carry the figures, so the two never repeat each other.
+~125 words, sized to his natural pace (~135 wpm) for the 58.5s cut.
+Status: **awaiting approval.**
 
-| Time | Scene | Voiceover |
+| Time | On screen | Voiceover |
 |---|---|---|
-| 0–5s | Night aerial | Every number in Indian real estate has a source. |
-| 5–10s | Gurugram skyline | For eighteen years, it has been us. |
-| 10–20s | India map | We map India's fifty biggest housing markets, project by project. Nearly two lakh projects. Seventy thousand developers. One point four crore homes. |
-| 20–27s | Data points | Over a billion data points. Every price, every unit, every delay. |
-| 27–33s | Stage timeline | From launch to possession, nothing goes unrecorded. |
-| 33–41s | Trust | Eighty percent of India's top hundred developers run on our data. And eighty-one percent of our clients renew, year after year. |
-| 41–47s | On the ground | Five hundred people. Nineteen offices. On the ground, in every market. |
-| 47–54s | NSE listing | Listed on the National Stock Exchange. Public, and accountable. |
+| 0–10s | Night aerial → Gurugram, "Since 2008" | Every rupee in Indian real estate rests on one question. Is the number right? Back in 2008, we decided to answer it. |
+| 10–20s | India map, project counts | So we went out and counted, city by city, site by site, until we could see the whole country the way a developer sees a single plot. |
+| 20–33s | 1 billion data points → launch-to-possession timeline | Because a price alone tells you nothing. You need to know what was promised, what is actually being built, and whether the keys arrive on time. |
+| 33–41s | 80% of top developers, logos, 81% renewals | That's why India's biggest developers, and the banks behind them, check with us before they make a move. |
+| 41–47s | 500+ people, 19 offices | None of this comes from a spreadsheet. It's earned on the ground, every single day. |
+| 47–54s | NSE listing, FY26 results | And when you ask a market to trust your numbers, you put your own out in public too. |
 | 54–58s | End card | PropEquity. The source of truth. |
